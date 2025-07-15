@@ -1,0 +1,13 @@
+# For Slack integration
+slack_sdk
+python-dotenv
+
+# For Vertex AI Search
+google-cloud-discoveryengine
+
+# For the Google Agent Development Kit (ADK) and its dependencies
+google-adk
+google-cloud-aiplatform
+
+# adk 
+google-adk
